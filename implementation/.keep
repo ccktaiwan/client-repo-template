@@ -1,0 +1,21 @@
+Implementation Directory
+
+This directory contains executable code, configuration, and operational artifacts.
+
+This directory permits AI-assisted execution under defined governance constraints.
+
+AI systems may generate code, configuration, or documentation drafts
+only when operating within approved specifications and architecture.
+
+All AI-generated artifacts must be reviewed and approved by humans
+before merge, release, or deployment.
+
+AI systems may not introduce new requirements, redefine architecture,
+or bypass human review at any stage.
+
+Artifacts in this directory are subject to enforcement and escalation rules
+defined by Prospera OS Governance.
+
+Execution without human approval is prohibited.
+
+End of Document
