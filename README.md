@@ -1,5 +1,9 @@
 Prospera OS
 Client Repository Template
+Authority Boundary
+
+Authority Boundary Statement:
+This repository is a client-facing project template intended for implementation and delivery under Prospera OS Governance. It does not define governance authority, system rules, or enforcement logic. All canonical governance and execution definitions reside in the prospera-os repository.
 
 Repository Purpose
 
@@ -15,7 +19,9 @@ This repository adopts Prospera OS Governance as its governing framework.
 
 Governance authority, rules, enforcement mechanisms, and escalation paths are defined externally.
 
-See GOVERNANCE_ADOPTION_DECLARATION.md for the formal adoption declaration.
+For the formal adoption declaration, see:
+
+GOVERNANCE_ADOPTION_DECLARATION.md
 
 What This Repository Is For
 
@@ -53,11 +59,11 @@ AI Usage Rules
 
 AI systems may be used only as permitted by the adopted governance specifications.
 
-AI outputs are advisory unless explicitly reviewed and approved by a responsible human.
+AI outputs are advisory unless explicitly reviewed and approved by a responsible human
 
-AI systems may not make final decisions, enforce rules, or override human authority.
+AI systems may not make final decisions, enforce rules, or override human authority
 
-All AI-assisted activities must remain traceable and reviewable.
+All AI-assisted activities must remain traceable and reviewable
 
 Authority and Responsibility
 
@@ -71,19 +77,18 @@ Governance Compliance
 
 This repository is subject to governance audit and review.
 
-All work must be traceable to responsible human actors.
+All work must be traceable to responsible human actors
 
-Non-compliant artifacts may be invalidated.
+Non-compliant artifacts may be invalidated
 
-In case of uncertainty, ambiguity, or conflict, governance escalation must occur.
+In case of uncertainty, ambiguity, or conflict, governance escalation must occur
 
 Reference Documents
 
 GOVERNANCE_ADOPTION_DECLARATION.md
-Prospera OS Governance Repository (ai-governed-software-engineering)
 
-────────────────────────────────────────
+Prospera OS Governance Repository
+(https://github.com/ccktaiwan/prospera-os
+)
+
 End of Document
-────────────────────────────────────────
-
-Commit 設定（請照用）
