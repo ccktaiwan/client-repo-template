@@ -1,98 +1,83 @@
-Prospera OS — Stablecoin Client Repository Template
-Document Type: Client Repository Template
-Status: Stable
+Prospera OS — Stablecoin Governance Adoption Declaration
+Document Type: Governance Adoption Declaration
+Status: Canonical (Adopted)
 Version: v1.0
 Date: 2026-01-05
-Maintained by: Prospera Architecture Group
-
-Purpose
-
-This repository serves as the official client implementation template
-for stablecoin projects operating under Prospera OS governance.
-
-It provides a safe engineering environment for implementation,
-documentation, and AI-assisted execution within predefined
-governance boundaries.
-
-This repository does NOT define governance authority.
+Maintained by: Client Organization
+Governing Authority: Prospera OS (External)
 
 ---
 
-Governance Authority
+Declaration
 
-All governance rules, decision chains, and enforcement logic
-are defined exclusively in the Prospera OS repository.
+This repository formally and irrevocably adopts Prospera OS
+as the sole governing authority for all stablecoin-related activities.
 
-This client repository adopts governance by reference and
-must not redefine or override any governance rule.
+All governance rules, decision chains, authority models,
+AI participation boundaries, kernel enforcement mechanisms,
+and audit requirements are defined exclusively by Prospera OS.
 
-Authoritative source:
-https://github.com/ccktaiwan/prospera-os
-
----
-
-Adopted Stablecoin Governance Scope
-
-This repository operates under the following canonical governance artifacts:
-
-- Stablecoin Vertical Governance Playbook v1.0
-- Stablecoin Data Usage Decision Chain v1.0
-- Stablecoin Mint / Burn Decision Chain v1.0
-- Stablecoin Marketing & Distribution Decision Chain v1.0
-
-All implementation work MUST comply with these artifacts.
+This repository does not and shall not define governance authority.
 
 ---
 
-AI Usage Rules
+Scope of Adoption
 
-AI systems may be used only as Engineering Workers.
+The adoption applies to, but is not limited to:
 
-AI is permitted to:
-- Generate code drafts
-- Assist with documentation
-- Analyze test results
-- Simulate scenarios
+- Stablecoin issuance, redemption, and circulation
+- Liquidity management and market operations
+- Data usage and customer protection
+- Crisis and emergency handling
+- AI-assisted engineering activities
+- Audit, compliance, and regulatory support
 
-AI is prohibited from:
-- Authorizing decisions
-- Executing mint/burn
-- Modifying governance logic
-- Accessing data outside approved scope
-
-All AI-generated artifacts require human review.
+All activities must conform to Prospera OS governance artifacts.
 
 ---
 
-What This Repository Is For
+Authority Boundaries
 
-- Stablecoin system implementation
-- Smart contract development under governance
-- Integration testing
-- Compliance documentation
-- AI-assisted engineering work (non-authoritative)
+This repository explicitly acknowledges that:
+
+- Governance authority originates only from Prospera OS
+- Decision authorization cannot occur within this repository
+- Execution is permitted only within approved boundaries
+- AI systems hold no authority and no execution privileges
+
+Any attempt to redefine authority or bypass governance
+constitutes a governance violation.
 
 ---
 
-What This Repository Is NOT For
+Human Accountability
 
-- Defining governance or policy
-- Bypassing authorization
-- Autonomous AI execution
-- Monetary decision-making
-- Regulatory interpretation
+All actions performed within this repository
+must be attributable to responsible human maintainers.
 
-Any attempt to do so constitutes a governance violation.
+Authority and responsibility cannot be delegated
+to tools, automation, or artificial intelligence systems.
 
 ---
 
 Compliance and Audit
 
-All work in this repository:
-- Must be attributable to a human maintainer
-- Is subject to governance audit
-- May be invalidated if non-compliant
+This repository is subject to governance audit
+and may be reviewed by internal or external auditors.
 
-When in doubt, escalate to Prospera OS governance.
+Non-compliant artifacts may be invalidated or removed.
+
+In case of ambiguity or conflict,
+governance escalation to Prospera OS is mandatory.
+
+---
+
+Acknowledgement
+
+By contributing to or operating this repository,
+all participants acknowledge and accept
+the governance authority of Prospera OS.
+
+---
 
 End of Document
